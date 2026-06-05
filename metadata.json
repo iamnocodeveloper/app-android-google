@@ -1,0 +1,6 @@
+{
+  "name": "Tempo",
+  "description": "Daily schedule and productivity organizer that helps users plan blocks, tasks, and view statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
